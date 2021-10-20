@@ -1,0 +1,5 @@
+keypair_config:
+  keypair_path: "/root/solanaproto/solana-wallet/keypair.json"
+rpc_config:
+  api_endpoint: "https://mia7.rpcpool.com"
+  logfile_name: "api_log.log"

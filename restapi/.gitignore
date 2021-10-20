@@ -1,0 +1,15 @@
+atest.py
+server_debug.log
+api_log.log
+
+
+lib/*
+lib64/*
+bin/*
+
+etfapi/migrations/*
+etfapi/__pycache__/*
+etfapi/token_api/preview_gen/previews/*
+etfapi_token_api/preview_gen/__pycache__/*
+
+__pycache__*/
